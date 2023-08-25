@@ -1,1 +1,2 @@
-ResurrectionRemix Updater JSON API
+LineageOS Updater JSON API
+teste 
